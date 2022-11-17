@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Created-By: Maven Integration for Eclipse
+Implementation-Version: local
+Specification-Title: WebGoat
+Specification-Version: 6.0.1
+
